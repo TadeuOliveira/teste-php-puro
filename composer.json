@@ -1,0 +1,14 @@
+{
+    "name": "tadeusvult/bitix",
+    "type": "project",
+    "require": {
+        "vlucas/phpdotenv": "^3.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tadeu Oliveira",
+            "email": "tadeu_oliveira@id.uff.br"
+        }
+    ]
+}
